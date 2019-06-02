@@ -48,7 +48,7 @@ WAFPASS Analysing parameters with all payloads' bypass methods, aiming at benchm
 
   To get a list of all options and switches use:
   
-      $ python3 wapfass.py -h
+      $ python3 wafpass.py -h
    
    
    
@@ -63,4 +63,7 @@ WAFPASS Analysing parameters with all payloads' bypass methods, aiming at benchm
 ## Questions?
 
 Contact [me](mailto:hamedizadi@gmail.com)
+
+## A Special Thanks To…
+[Hamed Hosseini](mailto:hamedhoseini3@gmail.com) 
  
